@@ -13,4 +13,8 @@ pasar mis archivos remotos al servidor remoto en donde tengo listo el encriptado
 
 Te invito amigo(a) a recapitular el curso de Git-y-github si tienes alguna duda.
 
+https://davidfunezgarcia.github.io/portafolio/ (Aqui mi decodificador por si gustan pegarle un ojito)
+
+
+
 Muchas gracias
